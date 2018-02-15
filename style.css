@@ -1,0 +1,30 @@
+body{
+  font-family: sans-serif;
+}
+
+.projects{
+  display: inline-grid;
+
+}
+img{
+  width:300px;
+}
+ul{
+  list-style-type:none;
+}
+li{
+  text-decoration: none;
+  /**
+  display inline block
+   */
+
+}
+
+div{
+
+}
+
+#project-wrapper{
+ margin-left:100px;
+  margin-right:100px;
+}
